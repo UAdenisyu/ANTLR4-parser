@@ -14,7 +14,8 @@ PyPas.g4 and written in ANTLR4 format
 
 ###
 
-Run the main.py file to parse your code
+Run the main.py file to parse your code if your grammar wasn't change.
+Run the parse.bat instead if your grammar was changed.
 
 ###
 
